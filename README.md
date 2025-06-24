@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Cristian Cabral y yo soy programador junior, de Argentina</h2>
+<h2 align="left">Hola 👋! Mi nombre es Cristian Cabral</h2>
 
 ###
 
